@@ -8,5 +8,5 @@ syntax on
 set autoindent
 set smartindent
 set softtabstop=4 shiftwidth=4 expandtab
-set spell
 filetype plugin on
+set t_Co=256
